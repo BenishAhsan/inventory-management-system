@@ -1,5 +1,5 @@
 # Inventory Management System
-# Order Management Module
+## Order Management Module
 > Part of a group Inventory Management System (DBMS Course Project)
 > My responsibility: Order Management module (database design + frontend workflow)
 
